@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: bf65b19836a97264dace1794a9497c8b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Inside_Back
+    100004: Inside_Bottom
+    100006: Inside_Front
+    100008: Inside_Left
+    100010: Inside_Right
+    100012: Inside_Up
+    100014: Outside_Back
+    100016: Outside_Bottom
+    100018: Outside_Front
+    100020: Outside_Left
+    100022: Outside_Right
+    100024: Outside_Up
+    400000: //RootNode
+    400002: Inside_Back
+    400004: Inside_Bottom
+    400006: Inside_Front
+    400008: Inside_Left
+    400010: Inside_Right
+    400012: Inside_Up
+    400014: Outside_Back
+    400016: Outside_Bottom
+    400018: Outside_Front
+    400020: Outside_Left
+    400022: Outside_Right
+    400024: Outside_Up
+    2100000: Front_Face
+    2100002: Left_Face_002
+    2100004: Right_Face_003
+    2100006: Back_Face_004
+    2100008: Top_Face_005
+    2100010: Bottom_Face_006
+    2100012: Back_Face_012
+    2100014: Bottom_Face_011
+    2100016: Right_Face_010
+    2100018: Top_Face_009
+    2100020: Front_Face_008
+    2100022: Left_Face_007
+    2300000: Inside_Back
+    2300002: Inside_Bottom
+    2300004: Inside_Front
+    2300006: Inside_Left
+    2300008: Inside_Right
+    2300010: Inside_Up
+    2300012: Outside_Back
+    2300014: Outside_Bottom
+    2300016: Outside_Front
+    2300018: Outside_Left
+    2300020: Outside_Right
+    2300022: Outside_Up
+    3300000: Inside_Back
+    3300002: Inside_Bottom
+    3300004: Inside_Front
+    3300006: Inside_Left
+    3300008: Inside_Right
+    3300010: Inside_Up
+    3300012: Outside_Back
+    3300014: Outside_Bottom
+    3300016: Outside_Front
+    3300018: Outside_Left
+    3300020: Outside_Right
+    3300022: Outside_Up
+    4300000: Outside_Front
+    4300002: Outside_Left
+    4300004: Outside_Right
+    4300006: Outside_Back
+    4300008: Outside_Up
+    4300010: Outside_Bottom
+    4300012: Inside_Back
+    4300014: Inside_Bottom
+    4300016: Inside_Right
+    4300018: Inside_Up
+    4300020: Inside_Front
+    4300022: Inside_Left
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
